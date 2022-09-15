@@ -1,0 +1,9 @@
+Description: 
+Running the program and demonstrate to me on Week 14th one by one. You have to use your own PC to show the result. We do NOT allow to share PC with others.
+ 
+Application request:
+ Client reads a line of characters (data) from its keyboard and sends the data to the server.
+The server receives the data and converts characters to uppercase.
+The server sends the modified data to the client.
+The client receives the modified data and displays the line on its screen.
+The 3.c result will be displayed on client side screen as well.
